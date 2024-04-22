@@ -1,2 +1,2 @@
 # Creative-Agency-Website
-Creativify is a dynamic and innovative creative agency website designed to showcase our passion for crafting compelling digital experiences. 
+Creativify is a responsive creative agency website built using HTML, CSS, and JavaScript. It seamlessly combines creativity with technology to deliver captivating digital experiences. Explore our portfolio, meet our team, and discover how Creativify can elevate your brand online.
